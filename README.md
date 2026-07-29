@@ -9,7 +9,9 @@ Student Name: BYIRINGIRO Emmanuel
 Student ID: 29674
 
 Course: INSY 8313 – Management Information System (MIS)
+
 Instructor: Eric Maniraguha
+
 Assignment: Group Assignment IV-b – No-Code/Low-Code E-Commerce Application Development Project
 
 
